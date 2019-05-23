@@ -15,6 +15,9 @@ public class Main {
         SumMultiplies sum = new SumMultiplies();
         System.out.println(sum.sum(10));
 
+        //testing reverse string
+        ReverseString str = new ReverseString();
+        System.out.println(str.reverse("cartus"));
 
     }
 

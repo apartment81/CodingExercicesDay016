@@ -1,7 +1,7 @@
 package ro.mirodone;
 
 public class SumMultiplies {
-    
+
     public int sum(int n) {
         int sum = 0;
         for (int i = 1; i <= n; i++) {
